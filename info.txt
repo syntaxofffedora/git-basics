@@ -4,3 +4,7 @@ different names
 
 and I know how 
 
+we have different command to this
+operation like git branch --set-upstream-to=origin/remote_branch
+
+git push -u origin local:remote
